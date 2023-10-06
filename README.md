@@ -8,3 +8,5 @@ Link to Tableau Public dashboard page https://public.tableau.com/views/GDP_vs_Li
 Link to Tableau Dashboard: (https://public.tableau.com/shared/2JXN4SPJD?:display_count=n&:origin=viz_share_link)
 
 Tableau is great tool to create beautiful visualisations. It is becoming more and more popular as many companies start to partner with Sales Force for business analytics reports.
+
+This individual project allowed me to gain more confidence on performing initial exploratory analysis in Excel (sorting, creating static charts and using macros), and then building interactive dashboard in Tableau. As per requirement of project, had to use colour pallet suitable for colour-blind people.
